@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Apr 30 16:42:53 TRT 2023
-MyLib-1.0.0.jar>=
-MyLib-1.0.0.pom>=
+#Sun Apr 30 16:57:35 TRT 2023
+com-sc-utils-1.0.0.jar>=
+com-sc-utils-1.0.0.pom>=

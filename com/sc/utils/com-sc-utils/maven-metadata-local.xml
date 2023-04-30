@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.sc.utils</groupId>
-  <artifactId>MyLib</artifactId>
+  <artifactId>com-sc-utils</artifactId>
   <versioning>
     <release>1.0.0</release>
     <versions>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20230430134252</lastUpdated>
+    <lastUpdated>20230430135735</lastUpdated>
   </versioning>
 </metadata>
